@@ -214,7 +214,7 @@ color: rgb(212, 160, 45);}
   }
   
   .person {
-    border: 2px solid red;
+/*     border: 2px solid red; */
     transform: translate(10%, 85px);
   }
 
